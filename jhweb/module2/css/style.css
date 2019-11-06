@@ -1,4 +1,4 @@
-* {
+﻿* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ h1 {
 
 p { 
   background-color: grey;
-  border: 3px solid black;
+  border: 1px solid black;
   clear: right;
   text-align: justify;
   margin: 5px 5px 5px 5px;
@@ -31,8 +31,8 @@ h2.Chicken {
    width: 120px;
    height: 30px;
    background-color:pink;
-   right: 6px;
-   border: 3px solid black;
+   right: 5px;
+   border: 1px solid black;
    color:black;
    text-align: center;
 }
@@ -41,11 +41,11 @@ h2.Beef {
    position: relative;
    float: right;
    top: 30px;
-   right: 6px;
+   right: 5px;
    width: 120px;
    height: 30px;
    background-color:red;
-   border: 3px solid black;
+   border: 1px solid black;
    color:white;
    text-align: center;
 }
@@ -54,11 +54,11 @@ h2.Sushi {
    position: relative;
    float: right;
    top: 30px;
-   right: 6px;
+   right: 5px;
    width: 120px;
    height: 30px;
    background-color:orange;
-   border: 3px solid black;
+   border: 1px solid black;
    color:black;
    text-align: center;
 }
@@ -108,4 +108,3 @@ h2.Sushi {
     width: 100%;
   }
 }
-
